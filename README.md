@@ -19,3 +19,11 @@ Organize and preprocess heterogeneous datasets into a consistent spatial and tem
 Generate physically meaningful and learning-ready input features for flood mapping.
 
 Promote reproducibility, scalability, and extensibility for future flood events and study regions.
+
+Here we have also uploaded a example .ipynb file in which we have done some work with the gpm file whose extension is .hfd5 and also for our work we have currently downloaded the Imerge Final result file 
+In order to read more about the gpm Api one can visit the site https://gpm-api.readthedocs.io/en/latest/tutorials/tutorial_02_IMERG.html
+
+Here we have also uploaded a exmple .ipynb file where we have read the files which we have downloaded from ERA5Land site.
+To study more about the Era5Land one can visit the site https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
+
+Important Libraries which we have installed in our virtual environment in order to 
