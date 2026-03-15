@@ -54,7 +54,7 @@ In order to read more about the gpm Api one can visit the site https://gpm-api.r
 Here we have also uploaded an exmple era5_land_tutorial_commented.ipynb file where we have read the files which we have downloaded from ERA5Land site.
 To study more about the Era5Land one can visit the site https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
 
-# For rest of data formate
+# For rest of data (.tif file)
 In order to process rest of the .tif files we can use rasterio library .
 we can study about rasterio library we can visit the site
 https://pypi.org/project/rasterio/
