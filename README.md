@@ -16,10 +16,15 @@ GPM IMERG data provides high-resolution precipitation measurements, which are es
 
 # 3. ERA5-Land Reananlysis Data
 ERA5-Land provides land surface and hydrometeorological variables such as:
-# (a)Soil moisture
-# (b)Surface temperature
-# (c) Runoff proxies
-# (d) Other land surface parameters
+  
+  (a)Soil moisture
+  
+  (b)Surface temperature
+  
+  (c) Runoff proxies
+  
+  (d) Other land surface parameters
+
 These variables help capture the environmental conditions that influence flood occurrence.
 
 # Additional Geospatial Features
@@ -83,14 +88,23 @@ This folder contains data corresponding to the dates where the rainfall threshol
 # Dataset Organization
 
 The dataset provided in the Google Drive link is structured as follows:
-Dataset
+
+Project
+
 │
+
 ├── kolkata
+
 │   ├── DEM
+
 │   ├── ERA5_land
+
 │   ├── Global Precipitation
+
 │   └── Sentinel 1 SLC
+
 │
+
 └── precipitation on any particular day more than 50 mm
 
 Both approaches together help build a more comprehensive flood dataset for training and evaluating flood mapping models.
